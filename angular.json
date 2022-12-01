@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "examination-management-fe": "apps/examination-management-fe",
+    "examination-management-fe-e2e": "apps/examination-management-fe-e2e"
+  }
+}
